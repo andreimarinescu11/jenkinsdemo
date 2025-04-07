@@ -1,1 +1,1 @@
-print("Salut din jonkinsdemo si Python")
+print("Salut din jenkinsdemo si Python")
